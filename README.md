@@ -1,6 +1,6 @@
 👋 Hi, I’m @Sofiane-Meziane
 
-👀 I’m interested in information systems and web development
+👀 Passionate about AI and web development, I love building innovative solutions that bridge technology and real-world applications. Always eager to learn and experiment with new tools and frameworks.
 
 🌱 Studying computer science at Bejaia University
 
